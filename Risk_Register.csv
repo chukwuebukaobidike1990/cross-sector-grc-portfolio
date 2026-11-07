@@ -1,0 +1,6 @@
+Risk_ID,Domain,Risk_Statement,Inherent_Likelihood,Inherent_Impact,Inherent_Score,Existing_Controls,Residual_Likelihood,Residual_Impact,Residual_Score,Owner,Treatment,Status
+R-001,Identity,"Compromised privileged credentials could enable unauthorised access to critical systems",4,5,20,"MFA; privileged access management; logging",2,5,10,IT Director,Reduce,In progress
+R-002,Third party,"Supplier outage could interrupt a critical outsourced service",4,4,16,"SLA; supplier review; continuity clauses",3,4,12,Procurement Director,Reduce,Open
+R-003,Privacy,"Excessive retention could expose personal data and create regulatory risk",3,4,12,"Retention schedule; access restrictions",2,3,6,Privacy Lead,Reduce,In progress
+R-004,Resilience,"Recovery capability may not meet business recovery requirements",3,5,15,"Backups; recovery runbook",2,4,8,Service Owner,Reduce,Open
+R-005,People,"Insufficient role-based training may lead to control failures",3,3,9,"Annual awareness training",2,3,6,HR Director,Reduce,Open
