@@ -1,0 +1,7 @@
+Metric_ID,Metric,Type,Definition,Frequency,Owner,Illustrative_Threshold
+KPI-01,Overdue high-risk actions,KPI,Count of high-risk actions past due,Monthly,Risk Office,Escalate overdue critical actions
+KPI-02,Access reviews completed,KPI,Completed reviews divided by planned reviews,Quarterly,IT Controls,Illustrative target 95%
+KRI-01,Critical supplier assurance gaps,KRI,Critical suppliers with overdue material gaps,Monthly,Third-Party Risk,Escalate any critical gap
+KRI-02,Unpatched critical vulnerabilities,KRI,Count beyond approved remediation SLA,Weekly,Security Operations,Set threshold from appetite
+KPI-03,Validated incident actions closed,KPI,Actions closed and validated divided by due,Monthly,Incident Manager,Illustrative target 90%
+KPI-04,Mandatory training completion,KPI,People completing required training divided by in-scope population,Monthly,HR/Compliance,Illustrative target 98%
