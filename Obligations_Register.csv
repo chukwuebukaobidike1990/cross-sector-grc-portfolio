@@ -1,0 +1,4 @@
+Obligation_ID,Source,Requirement,Applicability,Control_or_Process,Owner,Evidence,Review_Date,Status
+OB-001,UK GDPR,Process personal data lawfully fairly and transparently,Where organisation is controller or processor,Privacy governance and records,Privacy Lead,RoPA notices contracts,TBD,To assess
+OB-002,PCI DSS v4.0.1,Protect payment account data where in scope,Where entity stores processes transmits or can affect account-data security,Payment security controls,Payment Owner,Scope and assessment evidence,TBD,To assess
+OB-003,Contract,Meet agreed security incident notification terms,Where contract includes notification duties,Supplier/customer incident process,Contract Owner,Contract and incident records,TBD,To assess
