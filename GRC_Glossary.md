@@ -1,0 +1,18 @@
+# GRC Glossary
+- GRC: Governance, Risk and Compliance.
+- Inherent risk: exposure before controls.
+- Residual risk: exposure after controls are considered.
+- Risk appetite: amount/type of risk an organisation is willing to pursue or retain.
+- Control owner: person accountable for control operation and evidence.
+- Design effectiveness: whether a control can address the stated risk if operated as designed.
+- Operating effectiveness: whether it operated consistently as intended.
+- KPI: Key Performance Indicator.
+- KRI: Key Risk Indicator.
+- DPIA: Data Protection Impact Assessment.
+- BIA: Business Impact Analysis.
+- RTO: Recovery Time Objective.
+- RPO: Recovery Point Objective.
+- MTPD: Maximum Tolerable Period of Disruption.
+- SoA: Statement of Applicability.
+- ISMS: Information Security Management System.
+- OT: Operational Technology.
