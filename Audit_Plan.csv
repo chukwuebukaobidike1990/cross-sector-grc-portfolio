@@ -1,0 +1,4 @@
+Audit_ID,Area,Objective,Scope,Procedure,Owner,Status
+A-001,Identity access,Assess authorisation and periodic review,Core applications,"Sample joiners movers leavers and privileged access",IT Owner,Planned
+A-002,Third-party risk,Assess supplier onboarding and monitoring,Critical suppliers,"Inspect due diligence and review evidence",Procurement,Planned
+A-003,Incident response,Assess readiness and lessons learned,Security incident process,"Walkthrough and tabletop exercise",Security Lead,Planned
